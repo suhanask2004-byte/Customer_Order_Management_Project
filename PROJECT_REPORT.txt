@@ -1,0 +1,26 @@
+SOFTWARE SERVICES CUSTOMER ORDER MANAGEMENT CONTROL SYSTEM
+
+PURPOSE
+The purpose of this project is to develop a simple Customer Order Management System using Python and MySQL.
+
+ADVANTAGES
+1. Stores customer information systematically.
+2. Maintains salesperson records.
+3. Stores customer orders.
+4. Retrieves information quickly.
+5. Updates salesperson incentives.
+6. Reduces manual data entry.
+
+OBJECTIVES
+1. Understand Python-MySQL connectivity.
+2. Create and manage a MySQL database.
+3. Create relational tables.
+4. Insert, retrieve and update records using Python.
+5. Understand primary keys and foreign keys.
+6. Implement user-defined functions.
+
+ABSTRACT
+The Software Services Customer Order Management Control System is a database-oriented Python project developed using Python and MySQL. The system manages salespeople, customers and customer orders. MySQL stores information in structured tables while Python connects to the database and performs INSERT, SELECT and UPDATE operations. A simple calculator using user-defined Python functions is also included.
+
+CONCLUSION
+The project demonstrates how Python can be integrated with MySQL to create a basic database management application. It performs salesperson management, customer management and order management operations and demonstrates Python functions, SQL queries and database connectivity.
